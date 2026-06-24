@@ -1,0 +1,114 @@
+{
+  "title": "Dünyaya Bakış | Küresel Haber Takibi",
+  "syncTitle": "Bilgiler eşitleniyor",
+  "syncDesc": "Küresel haber sinyalleri güncelleniyor...",
+  "heroSubtitle": "Konu ve bölgeye göre dünya haberleri",
+  "heroTagline": "Son haberler · Bölge filtreleri",
+  "enter": "İzleme Salonuna Gir",
+  "homeTitle": "İzleme Matrisi",
+  "homeDesc": "Bir bölüm seçin.",
+  "latestSync": "Son Eşitleme",
+  "live": "Canlı",
+  "scope": "Kapsam",
+  "currentView": "Geçerli Görünüm",
+  "globalMonitoring": "küresel izleme",
+  "regionMonitoring": "bölgesel izleme",
+  "mapTitle": "Coğrafi Filtre",
+  "mapDesc": "Kıtaya göre filtrele.",
+  "resetGlobal": "Küresel Görünümü Sıfırla",
+  "loadingTitle": "Son haberler yükleniyor",
+  "loadingDesc": "Son haberler sıralanıyor...",
+  "emptyTitle": "Eşleşen haber yok",
+  "emptyDesc": "Bölge/kategori değiştirin veya sonra tekrar deneyin.",
+  "errorTitle": "Haber tarama başarısız",
+  "retry": "Tekrar dene",
+  "openOriginal": "Orijinali aç",
+  "heat": "Trend",
+  "heatRealtime": "Canlı trend",
+  "realTime": "Canlı",
+  "unknown": "Bilinmiyor",
+  "footer": "© 2026 Dünyaya Bakış | Küresel Haber Takibi",
+  "categories": {
+    "tech": [
+      "Teknoloji İstihbaratı",
+      "AI, yarı iletkenler, uzay ve ileri Ar-Ge"
+    ],
+    "politics": [
+      "Politika ve Diplomasi",
+      "Seçimler, diplomasi ve jeopolitik"
+    ],
+    "finance": [
+      "Küresel Finans",
+      "Piyasalar, para birimleri, M&A ve makro ekonomi"
+    ],
+    "general": [
+      "Genel Güncellemeler",
+      "Toplumsal konular, acil durumlar ve küresel özetler"
+    ],
+    "environment": [
+      "Çevre ve İklim",
+      "İklim ve ekolojik koruma"
+    ],
+    "health": [
+      "Küresel Sağlık",
+      "Kamu sağlığı ve tıbbi yenilikler"
+    ],
+    "science": [
+      "Bilim Keşfi",
+      "Uzay, fizik ve genetik"
+    ],
+    "culture": [
+      "Kültür ve Sanat",
+      "Miras, sanat eğilimleri ve toplum"
+    ]
+  },
+  "regions": {
+    "Global": "Küresel",
+    "North America": "Kuzey Amerika",
+    "Europe": "Avrupa",
+    "Asia": "Asya",
+    "Africa": "Afrika",
+    "South America": "Güney Amerika",
+    "Oceania": "Okyanusya"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Bu haberle ilgili diğer yayınlar.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Küresel haberler",
+  "sectionsKicker": "Bölümler",
+  "regionKicker": "Bölge",
+  "backSections": "← Bölümler",
+  "back": "← Geri",
+  "orientationTip": "Küçük ekranlarda daha rahat okumak için yatay kullanın.",
+  "introKicker": "About Dünyaya Bakış",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Dünyaya Bakış gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Dünyaya Bakış",
+  "sortLabel": "Sırala",
+  "sortHeat": "Önem",
+  "sortTime": "En yeni",
+  "feedbackButton": "Geri bildirim",
+  "noticeKicker": "Not",
+  "noticeTitle": "Site hakkında",
+  "noticeBody": "Bu site hâlâ erken aşamadadır. Bazı özellikler henüz kusursuz olmayabilir; adım adım geliştiriyoruz. Önerilerinizi e-posta ile gönderebilirsiniz.",
+  "feedbackKicker": "Geri bildirim",
+  "feedbackTitle": "Geri bildirim e-postası",
+  "feedbackIntro": "Geri bildirim e-postası: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Geri bildirim e-postası",
+  "feedbackMailAction": "E-posta gönder",
+  "feedbackClose": "Kapat"
+}

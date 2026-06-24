@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WorldView | Global News Monitor</title>
+    <link rel="stylesheet" href="/assets/styles.css?v=20260607-feedback">
+</head>
+<body>
+    <div id="language-switcher" class="language-switcher" aria-label="Language selector">
+        <button id="language-button" class="language-button" type="button" onclick="toggleLanguageMenu()" aria-haspopup="true" aria-expanded="false" aria-label="Change language">
+            <span id="current-language-label" class="language-current">English</span>
+            <span class="language-chevron" aria-hidden="true">⌄</span>
+        </button>
+        <div id="language-menu" class="language-menu" role="menu"></div>
+    </div>
+
+    <div id="feedback-modal" class="feedback-modal" aria-hidden="true">
+        <div class="feedback-modal-backdrop" onclick="closeFeedbackModal()"></div>
+        <section class="feedback-modal-card" role="dialog" aria-modal="true" aria-labelledby="feedback-modal-title">
+            <button class="feedback-modal-close" type="button" onclick="closeFeedbackModal()" aria-label="Close">×</button>
+            <p id="feedback-modal-kicker" class="kicker">Notice</p>
+            <h2 id="feedback-modal-title">A note from WorldView</h2>
+            <p id="feedback-modal-body">This is an early-stage website. Some features may still be imperfect, and we are improving it step by step.</p>
+            <div class="feedback-email-box">
+                <span id="feedback-email-label">Feedback email</span>
+                <a id="feedback-email-link" href="mailto:sochenxiang@outlook.com">sochenxiang@outlook.com</a>
+            </div>
+            <div class="feedback-modal-actions">
+                <a id="feedback-mail-action" class="primary-button" href="mailto:sochenxiang@outlook.com">Send feedback</a>
+                <button id="feedback-close-button" class="text-button" type="button" onclick="closeFeedbackModal()">Close</button>
+            </div>
+        </section>
+    </div>
+
+    <div id="update-overlay" class="update-overlay">
+        <div class="update-card">
+            <div class="loading-ring"></div>
+            <p id="sync-title" class="update-title">Updating news</p>
+            <p id="sync-desc" class="update-desc">Checking trusted sources and refreshing the cache.</p>
+        </div>
+    </div>
+
+    <main>
+        <section id="page-welcome" class="page active page-welcome simple-welcome">
+            <div class="container welcome-inner">
+                <p id="welcome-kicker" class="kicker">Global News Monitor</p>
+                <h1 id="brand-title" class="welcome-logo">WorldView</h1>
+                <p class="welcome-copy">
+                    <span id="hero-subtitle">World news by topic and region</span><br>
+                    <span id="hero-tagline">Latest reports · Regional filters</span>
+                </p>
+                <div class="welcome-actions">
+                    <button id="enter-button" class="primary-button" onclick="navigateTo('page-home')">Open Dashboard</button>
+                    <button id="feedback-button" class="text-button feedback-home-button" onclick="openFeedbackModal('feedback')">Feedback</button>
+                </div>
+                <section class="welcome-intro" aria-label="Site advantages">
+                    <div class="welcome-intro-head">
+                        <p class="kicker" id="intro-kicker">About WorldView</p>
+                        <h2 id="intro-heading">A faster way to scan world news</h2>
+                        <p id="intro-lead">WorldView collects recent reports from trusted sources, organizes them by topic and continent, and groups related coverage so you can move from headline to original source quickly.</p>
+                    </div>
+                    <div class="intro-card-grid">
+                        <article class="intro-card">
+                            <strong id="intro-card-1-title">Trusted sources</strong>
+                            <span id="intro-card-1-text">Collects reports from established global media and public institutions.</span>
+                        </article>
+                        <article class="intro-card">
+                            <strong id="intro-card-2-title">Regional queues</strong>
+                            <span id="intro-card-2-text">Keeps separate news queues for each continent, with Global sorted by heat.</span>
+                        </article>
+                        <article class="intro-card">
+                            <strong id="intro-card-3-title">Heat ranking</strong>
+                            <span id="intro-card-3-text">Stories are ranked by freshness, source weight and coverage signals.</span>
+                        </article>
+                        <article class="intro-card">
+                            <strong id="intro-card-4-title">Original reports</strong>
+                            <span id="intro-card-4-text">Open the source article and compare related coverage when needed.</span>
+                        </article>
+                    </div>
+                </section>
+            </div>
+        </section>
+
+        <section id="page-home" class="page page-home">
+            <div class="container">
+                <div class="home-toolbar">
+                    <button id="back-home-button" class="text-button" onclick="navigateTo('page-welcome')">← Home</button>
+                </div>
+                <header class="simple-header">
+                    <p id="sections-kicker" class="kicker">Sections</p>
+                    <h2 id="home-title">Choose a Topic</h2>
+                    <p id="home-desc">Choose a section.</p>
+                </header>
+                <div id="category-matrix" class="category-grid"></div>
+            </div>
+        </section>
+
+        <section id="page-detail" class="page page-detail">
+            <div class="container wide">
+                <div class="detail-topbar">
+                    <button id="back-sections-button" class="text-button" onclick="navigateTo('page-home')">← Sections</button>
+                    <label class="sort-control">
+                        <span id="sort-label">Sort</span>
+                        <select id="sort-select" onchange="setSortMode(this.value)">
+                            <option id="sort-heat-option" value="heat">Heat</option>
+                            <option id="sort-time-option" value="time">Newest</option>
+                        </select>
+                    </label>
+                    <div class="sync-panel">
+                        <span id="latest-sync-label">Last update</span>
+                        <strong id="last-updated">--:--:--</strong>
+                    </div>
+                </div>
+
+                <header class="simple-header detail-simple-header">
+                    <div class="title-line">
+                        <h2 id="detail-title">Technology</h2>
+                        <span class="live-status"><span class="live-dot"></span><span id="live-label">Live</span></span>
+                    </div>
+                    <p id="detail-subtitle">Scope: Global</p>
+                </header>
+
+                <section class="region-section">
+                    <div class="region-head">
+                        <div>
+                            <p id="region-kicker" class="kicker">Region</p>
+                            <h3 id="map-title">Region</h3>
+                            <p id="map-desc">Filter by continent.</p>
+                        </div>
+                        <div id="region-badge" class="region-badge">View: Global</div>
+                    </div>
+
+                    <svg viewBox="0 0 1000 540" class="world-map-svg" role="img" aria-label="Interactive world region map">
+                        <defs>
+                            <linearGradient id="landGradient" x1="0" y1="0" x2="1" y2="1">
+                                <stop offset="0%" stop-color="#111111" />
+                                <stop offset="100%" stop-color="#505050" />
+                            </linearGradient>
+                        </defs>
+                        <rect x="0" y="0" width="1000" height="540" rx="8" class="map-ocean" />
+                        <g class="map-grid">
+                            <path d="M80 120 C260 70 740 70 920 120" />
+                            <path d="M55 210 C250 165 750 165 945 210" />
+                            <path d="M45 300 C250 338 750 338 955 300" />
+                            <path d="M80 400 C260 462 740 462 920 400" />
+                            <path d="M180 58 C125 175 126 365 190 485" />
+                            <path d="M345 45 C315 168 315 370 350 500" />
+                            <path d="M500 38 C500 160 500 380 500 510" />
+                            <path d="M655 45 C685 168 685 370 650 500" />
+                            <path d="M820 58 C875 175 874 365 810 485" />
+                        </g>
+                        <g>
+                            <path id="region-na" onclick="selectRegion('North America', this)" class="map-region" d="M112 151 C140 103 206 82 265 94 C316 105 360 132 385 169 C358 185 334 209 313 239 C276 241 248 229 219 245 C178 268 134 247 104 215 C91 194 92 174 112 151 Z M250 250 C282 245 310 262 323 291 C300 309 270 314 246 302 C225 291 224 265 250 250 Z" />
+                            <path id="region-sa" onclick="selectRegion('South America', this)" class="map-region" d="M315 296 C347 309 369 342 364 382 C359 423 336 468 306 505 C278 472 267 428 252 386 C239 349 258 312 290 298 C299 294 308 293 315 296 Z" />
+                            <path id="region-eu" onclick="selectRegion('Europe', this)" class="map-region" d="M456 139 C484 113 533 111 568 132 C587 143 602 162 604 184 C574 192 546 189 520 204 C493 219 459 202 445 176 C438 162 442 149 456 139 Z" />
+                            <path id="region-af" onclick="selectRegion('Africa', this)" class="map-region" d="M511 218 C552 204 594 223 612 260 C633 301 616 353 589 393 C566 428 532 412 511 381 C486 345 471 297 483 257 C488 241 497 226 511 218 Z" />
+                            <path id="region-as" onclick="selectRegion('Asia', this)" class="map-region" d="M604 140 C661 92 768 87 850 131 C903 160 929 221 902 275 C871 335 781 333 725 302 C689 282 663 248 622 243 C594 240 574 215 581 186 C585 169 592 152 604 140 Z M738 319 C767 315 801 329 816 356 C793 378 755 376 735 353 C727 343 728 328 738 319 Z" />
+                            <path id="region-oc" onclick="selectRegion('Oceania', this)" class="map-region" d="M748 382 C787 358 848 364 884 394 C902 410 895 438 873 450 C833 471 775 455 746 424 C733 410 733 392 748 382 Z M900 452 C922 443 951 453 963 470 C946 486 916 484 900 468 C894 462 894 456 900 452 Z" />
+                        </g>
+                        <g class="map-labels">
+                            <text id="map-na" x="210" y="178">North America</text>
+                            <text id="map-sa" x="278" y="392">South America</text>
+                            <text id="map-eu" x="520" y="158">Europe</text>
+                            <text id="map-af" x="548" y="309">Africa</text>
+                            <text id="map-as" x="745" y="198">Asia</text>
+                            <text id="map-oc" x="823" y="420">Oceania</text>
+                        </g>
+                    </svg>
+                    <button id="reset-region-button" class="text-button" onclick="resetRegion()">Global view</button>
+                </section>
+
+                <div id="orientation-tip" class="orientation-tip">For a better reading experience on small screens, rotate your device to landscape.</div>
+                <section id="news-grid" class="news-list"></section>
+            </div>
+        </section>
+
+        <section id="page-related" class="page page-related">
+            <div class="container">
+                <div class="detail-topbar">
+                    <button id="related-back-button" class="text-button" onclick="navigateTo('page-detail')">← Back</button>
+                </div>
+                <header class="simple-header">
+                    <p id="related-eyebrow" class="kicker">Related</p>
+                    <h2 id="related-title">Other coverage</h2>
+                    <p id="related-subtitle">Compare sources on the same story.</p>
+                </header>
+                <article id="related-main" class="related-main"></article>
+                <section id="related-grid" class="related-grid"></section>
+            </div>
+        </section>
+    </main>
+
+    <footer class="site-footer"><p id="footer-text">© 2026 WorldView | Global News Monitor</p></footer>
+    <script src="/assets/app.js?v=20260607-feedback" defer></script>
+</body>
+</html>

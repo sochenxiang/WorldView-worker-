@@ -1,0 +1,114 @@
+{
+  "title": "Okno na Świat | Globalny Monitor Wiadomości",
+  "syncTitle": "Synchronizacja danych",
+  "syncDesc": "Aktualizowanie globalnych sygnałów informacyjnych...",
+  "heroSubtitle": "Wiadomości świata według tematu i regionu",
+  "heroTagline": "Najnowsze materiały · Filtry regionów",
+  "enter": "Wejdź do monitoringu",
+  "homeTitle": "Macierz monitorowania",
+  "homeDesc": "Wybierz dział.",
+  "latestSync": "Ostatnia synchronizacja",
+  "live": "Na żywo",
+  "scope": "Zakres",
+  "currentView": "Aktualny widok",
+  "globalMonitoring": "monitoring globalny",
+  "regionMonitoring": "monitoring regionalny",
+  "mapTitle": "Filtr geograficzny",
+  "mapDesc": "Filtruj według kontynentu.",
+  "resetGlobal": "Resetuj widok globalny",
+  "loadingTitle": "Ładowanie najnowszych wiadomości",
+  "loadingDesc": "Sortowanie najnowszych wiadomości...",
+  "emptyTitle": "Brak pasujących aktualizacji",
+  "emptyDesc": "Zmień region/kategorię lub spróbuj później.",
+  "errorTitle": "Pobieranie wiadomości nie powiodło się",
+  "retry": "Spróbuj ponownie",
+  "openOriginal": "Otwórz oryginał",
+  "heat": "Trend",
+  "heatRealtime": "Trend na żywo",
+  "realTime": "Na żywo",
+  "unknown": "Nieznane",
+  "footer": "© 2026 Okno na Świat | Globalny Monitor Wiadomości",
+  "categories": {
+    "tech": [
+      "Wywiad technologiczny",
+      "AI, półprzewodniki, kosmos i zaawansowane R&D"
+    ],
+    "politics": [
+      "Polityka i dyplomacja",
+      "Wybory, dyplomacja i geopolityka"
+    ],
+    "finance": [
+      "Globalne finanse",
+      "Rynki, waluty, M&A i makroekonomia"
+    ],
+    "general": [
+      "Aktualności ogólne",
+      "Sprawy społeczne, sytuacje nagłe i wiadomości globalne"
+    ],
+    "environment": [
+      "Środowisko i klimat",
+      "Klimat i ochrona ekologiczna"
+    ],
+    "health": [
+      "Zdrowie globalne",
+      "Zdrowie publiczne i innowacje medyczne"
+    ],
+    "science": [
+      "Nauka",
+      "Kosmos, fizyka i genetyka"
+    ],
+    "culture": [
+      "Kultura i sztuka",
+      "Dziedzictwo, trendy artystyczne i społeczeństwo"
+    ]
+  },
+  "regions": {
+    "Global": "Globalnie",
+    "North America": "Ameryka Północna",
+    "Europe": "Europa",
+    "Asia": "Azja",
+    "Africa": "Afryka",
+    "South America": "Ameryka Południowa",
+    "Oceania": "Oceania"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Więcej materiałów o tej historii.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "Na małych ekranach wygodniej czytać w trybie poziomym.",
+  "introKicker": "About Okno na Świat",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Okno na Świat gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Okno na Świat",
+  "sortLabel": "Sortuj",
+  "sortHeat": "Ważność",
+  "sortTime": "Najnowsze",
+  "feedbackButton": "Opinie",
+  "noticeKicker": "Uwaga",
+  "noticeTitle": "O tej stronie",
+  "noticeBody": "Ta strona jest wciąż na wczesnym etapie. Niektóre funkcje mogą nie być idealne; stopniowo je ulepszamy. Sugestie można przesłać e-mailem.",
+  "feedbackKicker": "Opinie",
+  "feedbackTitle": "E-mail do opinii",
+  "feedbackIntro": "E-mail do opinii: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "E-mail do opinii",
+  "feedbackMailAction": "Wyślij e-mail",
+  "feedbackClose": "Zamknij"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "Finestra sul mondo | Notizie globali",
+  "syncTitle": "Aggiornamento notizie",
+  "syncDesc": "Aggiornamento di fonti e cache.",
+  "heroSubtitle": "Notizie globali per tema e regione",
+  "heroTagline": "Ultimi report · Filtri regionali",
+  "enter": "Apri dashboard",
+  "homeTitle": "Scegli un tema",
+  "homeDesc": "Scegli una sezione.",
+  "latestSync": "Aggiornato",
+  "live": "Live",
+  "scope": "Ambito",
+  "currentView": "Vista",
+  "globalMonitoring": "Globale",
+  "regionMonitoring": "regione",
+  "mapTitle": "Regione",
+  "mapDesc": "Filtra per continente.",
+  "resetGlobal": "Vista globale",
+  "loadingTitle": "Caricamento ultimi report",
+  "loadingDesc": "Ordinamento degli ultimi report...",
+  "emptyTitle": "Nessun report per ora",
+  "emptyDesc": "Prova un’altra regione o ripassa più tardi.",
+  "errorTitle": "Report non disponibili",
+  "retry": "Riprova",
+  "openOriginal": "Leggi alla fonte",
+  "heat": "Trend",
+  "heatRealtime": "Trend live",
+  "realTime": "Live",
+  "unknown": "Sconosciuto",
+  "footer": "© 2026 Finestra sul mondo | Notizie globali",
+  "categories": {
+    "tech": [
+      "Tecnologia",
+      "IA, semiconduttori, spazio e R&S"
+    ],
+    "politics": [
+      "Politica e diplomazia",
+      "Elezioni, diplomazia e geopolitica"
+    ],
+    "finance": [
+      "Finanza globale",
+      "Mercati, valute, M&A e macroeconomia"
+    ],
+    "general": [
+      "Aggiornamenti generali",
+      "Società, emergenze e notizie globali"
+    ],
+    "environment": [
+      "Ambiente e clima",
+      "Clima e tutela ecologica"
+    ],
+    "health": [
+      "Salute globale",
+      "Sanità pubblica e innovazioni mediche"
+    ],
+    "science": [
+      "Scienza",
+      "Spazio, fisica e genetica"
+    ],
+    "culture": [
+      "Cultura e arti",
+      "Patrimonio, arte e società"
+    ]
+  },
+  "regions": {
+    "Global": "Globale",
+    "North America": "Nord America",
+    "Europe": "Europa",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "South America": "Sud America",
+    "Oceania": "Oceania"
+  },
+  "moreCoverage": "Altri {count} media ne parlano",
+  "viewMore": "Vedi altro",
+  "relatedCoverage": "Correlati",
+  "relatedTitle": "Altri report",
+  "relatedSubtitle": "Altre notizie su questa storia.",
+  "representativeReport": "Report principale",
+  "otherReports": "Altri report",
+  "noRelated": "Nessun altro report al momento",
+  "backHome": "← Home",
+  "welcomeKicker": "Notizie globali",
+  "sectionsKicker": "Sezioni",
+  "regionKicker": "Regione",
+  "backSections": "← Sezioni",
+  "back": "← Indietro",
+  "orientationTip": "Su schermi piccoli, ruota il dispositivo in orizzontale.",
+  "introKicker": "About Finestra sul mondo",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Finestra sul mondo gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Finestra sul mondo",
+  "sortLabel": "Ordina",
+  "sortHeat": "Rilevanza",
+  "sortTime": "Recenti",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Avviso",
+  "noticeTitle": "Informazioni sul sito",
+  "noticeBody": "Questo sito è ancora in una fase iniziale. Alcune funzioni possono non essere perfette; le stiamo migliorando passo dopo passo. Puoi inviare suggerimenti via e-mail.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "E-mail per feedback",
+  "feedbackIntro": "E-mail per feedback: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "E-mail per feedback",
+  "feedbackMailAction": "Invia e-mail",
+  "feedbackClose": "Chiudi"
+}

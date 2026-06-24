@@ -1,0 +1,114 @@
+{
+  "title": "Janela para o Mundo | Notícias globais",
+  "syncTitle": "Atualizando notícias",
+  "syncDesc": "Verificando fontes e cache.",
+  "heroSubtitle": "Notícias globais por tema e região",
+  "heroTagline": "Últimos relatos · Filtros regionais",
+  "enter": "Abrir painel",
+  "homeTitle": "Escolha um tema",
+  "homeDesc": "Escolha uma seção.",
+  "latestSync": "Atualizado",
+  "live": "Ao vivo",
+  "scope": "Escopo",
+  "currentView": "Vista",
+  "globalMonitoring": "Global",
+  "regionMonitoring": "região",
+  "mapTitle": "Região",
+  "mapDesc": "Filtre por continente.",
+  "resetGlobal": "Vista global",
+  "loadingTitle": "Carregando relatos recentes",
+  "loadingDesc": "Organizando relatos recentes...",
+  "emptyTitle": "Ainda não há relatos",
+  "emptyDesc": "Tente outra região ou volte em breve.",
+  "errorTitle": "Não foi possível carregar relatos",
+  "retry": "Tentar novamente",
+  "openOriginal": "Ler na fonte",
+  "heat": "Tendência",
+  "heatRealtime": "Tendência ao vivo",
+  "realTime": "Ao vivo",
+  "unknown": "Desconhecido",
+  "footer": "© 2026 Janela para o Mundo | Notícias globais",
+  "categories": {
+    "tech": [
+      "Tecnologia",
+      "IA, semicondutores, espaço e P&D"
+    ],
+    "politics": [
+      "Política e diplomacia",
+      "Eleições, diplomacia e geopolítica"
+    ],
+    "finance": [
+      "Finanças globais",
+      "Mercados, moedas, M&A e macroeconomia"
+    ],
+    "general": [
+      "Atualizações gerais",
+      "Sociedade, emergências e notícias globais"
+    ],
+    "environment": [
+      "Meio ambiente e clima",
+      "Clima e proteção ecológica"
+    ],
+    "health": [
+      "Saúde global",
+      "Saúde pública e inovação médica"
+    ],
+    "science": [
+      "Ciência",
+      "Espaço, física e genética"
+    ],
+    "culture": [
+      "Cultura e artes",
+      "Patrimônio, arte e sociedade"
+    ]
+  },
+  "regions": {
+    "Global": "Global",
+    "North America": "América do Norte",
+    "Europe": "Europa",
+    "Asia": "Ásia",
+    "Africa": "África",
+    "South America": "América do Sul",
+    "Oceania": "Oceania"
+  },
+  "moreCoverage": "Mais {count} veículos cobriram isso",
+  "viewMore": "Ver mais",
+  "relatedCoverage": "Relacionado",
+  "relatedTitle": "Outros relatos",
+  "relatedSubtitle": "Mais cobertura desta história.",
+  "representativeReport": "Relato principal",
+  "otherReports": "Mais relatos",
+  "noRelated": "Ainda não há mais cobertura",
+  "backHome": "← Início",
+  "welcomeKicker": "Notícias globais",
+  "sectionsKicker": "Seções",
+  "regionKicker": "Região",
+  "backSections": "← Seções",
+  "back": "← Voltar",
+  "orientationTip": "Em telas pequenas, use o modo paisagem para ler melhor.",
+  "introKicker": "Sobre Janela para o Mundo",
+  "introHeading": "Veja o mundo por fontes confiáveis",
+  "introLead": "Janela para o Mundo reúne relatos recentes de mídias e fontes públicas confiáveis, organiza por tema e continente e agrupa coberturas relacionadas.",
+  "introCard1Title": "Fontes confiáveis",
+  "introCard1Text": "Veículos reconhecidos, instituições e fontes especializadas.",
+  "introCard2Title": "Visão regional",
+  "introCard2Text": "Cada continente tem seu feed; Global destaca os temas mais fortes.",
+  "introCard3Title": "Menos repetição",
+  "introCard3Text": "Coberturas do mesmo fato são agrupadas.",
+  "introCard4Title": "Ler na fonte",
+  "introCard4Text": "Abra o artigo original e compare coberturas relacionadas.",
+  "brandName": "Janela para o Mundo",
+  "sortLabel": "Ordenar",
+  "sortHeat": "Relevância",
+  "sortTime": "Recentes",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Aviso",
+  "noticeTitle": "Sobre o site",
+  "noticeBody": "Este site ainda está em fase inicial. Algumas funções podem não estar perfeitas; estamos melhorando aos poucos. Sugestões são bem-vindas por e-mail.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "E-mail de feedback",
+  "feedbackIntro": "E-mail de feedback: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "E-mail de feedback",
+  "feedbackMailAction": "Enviar e-mail",
+  "feedbackClose": "Fechar"
+}

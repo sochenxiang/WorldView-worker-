@@ -1,0 +1,114 @@
+{
+  "title": "Вікно у світ | Монітор світових новин",
+  "syncTitle": "Синхронізація даних",
+  "syncDesc": "Оновлення глобальних новинних сигналів...",
+  "heroSubtitle": "Світові новини за темою і регіоном",
+  "heroTagline": "Останні матеріали · Регіональні фільтри",
+  "enter": "Увійти до моніторингу",
+  "homeTitle": "Матриця моніторингу",
+  "homeDesc": "Оберіть розділ.",
+  "latestSync": "Остання синхронізація",
+  "live": "Наживо",
+  "scope": "Охоплення",
+  "currentView": "Поточний вигляд",
+  "globalMonitoring": "глобальний моніторинг",
+  "regionMonitoring": "регіональний моніторинг",
+  "mapTitle": "Географічний фільтр",
+  "mapDesc": "Фільтр за континентом.",
+  "resetGlobal": "Скинути глобальний вигляд",
+  "loadingTitle": "Завантаження останніх матеріалів",
+  "loadingDesc": "Сортуємо останні матеріали...",
+  "emptyTitle": "Немає відповідних оновлень",
+  "emptyDesc": "Змініть регіон/категорію або спробуйте пізніше.",
+  "errorTitle": "Не вдалося зібрати новини",
+  "retry": "Повторити",
+  "openOriginal": "Відкрити оригінал",
+  "heat": "Популярність",
+  "heatRealtime": "Популярність наживо",
+  "realTime": "Наживо",
+  "unknown": "Невідомо",
+  "footer": "© 2026 Вікно у світ | Монітор світових новин",
+  "categories": {
+    "tech": [
+      "Технологічна розвідка",
+      "AI, напівпровідники, космос і передові R&D"
+    ],
+    "politics": [
+      "Політика і дипломатія",
+      "Вибори, дипломатія та геополітика"
+    ],
+    "finance": [
+      "Глобальні фінанси",
+      "Ринки, валюти, M&A та макроекономіка"
+    ],
+    "general": [
+      "Загальні оновлення",
+      "Соціальні теми, надзвичайні події та світові зведення"
+    ],
+    "environment": [
+      "Довкілля і клімат",
+      "Клімат і захист екосистем"
+    ],
+    "health": [
+      "Глобальне здоров’я",
+      "Громадське здоров’я та медичні інновації"
+    ],
+    "science": [
+      "Наука",
+      "Космос, фізика та генетика"
+    ],
+    "culture": [
+      "Культура і мистецтво",
+      "Спадщина, мистецькі тренди та суспільство"
+    ]
+  },
+  "regions": {
+    "Global": "Глобально",
+    "North America": "Північна Америка",
+    "Europe": "Європа",
+    "Asia": "Азія",
+    "Africa": "Африка",
+    "South America": "Південна Америка",
+    "Oceania": "Океанія"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Більше матеріалів про цю історію.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "На малому екрані зручніше читати в альбомній орієнтації.",
+  "introKicker": "About Вікно у світ",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Вікно у світ gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Вікно у світ",
+  "sortLabel": "Сортування",
+  "sortHeat": "Важливість",
+  "sortTime": "Нові",
+  "feedbackButton": "Відгук",
+  "noticeKicker": "Примітка",
+  "noticeTitle": "Про цей сайт",
+  "noticeBody": "Цей сайт ще на ранньому етапі. Деякі функції можуть бути недосконалими, і ми поступово їх покращуємо. Пропозиції можна надіслати електронною поштою.",
+  "feedbackKicker": "Відгук",
+  "feedbackTitle": "Ел. пошта для відгуків",
+  "feedbackIntro": "Ел. пошта для відгуків: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Ел. пошта для відгуків",
+  "feedbackMailAction": "Надіслати лист",
+  "feedbackClose": "Закрити"
+}

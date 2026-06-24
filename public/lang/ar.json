@@ -1,0 +1,114 @@
+{
+  "title": "نافذة على العالم | رصد الأخبار العالمية",
+  "syncTitle": "جارٍ مزامنة المعلومات",
+  "syncDesc": "يتم تحديث مصادر الأخبار والإشارات العالمية...",
+  "heroSubtitle": "أخبار العالم حسب الموضوع والمنطقة",
+  "heroTagline": "أحدث التقارير · فلاتر إقليمية",
+  "enter": "الدخول إلى قاعة المراقبة",
+  "homeTitle": "مصفوفة المراقبة",
+  "homeDesc": "اختر قسماً.",
+  "latestSync": "آخر مزامنة",
+  "live": "مباشر",
+  "scope": "النطاق",
+  "currentView": "العرض الحالي",
+  "globalMonitoring": "مراقبة عالمية",
+  "regionMonitoring": "مراقبة إقليمية",
+  "mapTitle": "مرشح جغرافي",
+  "mapDesc": "تصفية حسب القارة.",
+  "resetGlobal": "إعادة العرض العالمي",
+  "loadingTitle": "تحميل أحدث التقارير",
+  "loadingDesc": "جارٍ ترتيب أحدث التقارير...",
+  "emptyTitle": "لا توجد تحديثات مطابقة",
+  "emptyDesc": "غيّر المنطقة أو الفئة أو حاول لاحقاً.",
+  "errorTitle": "فشل جلب الأخبار",
+  "retry": "إعادة المحاولة",
+  "openOriginal": "فتح المصدر",
+  "heat": "الزخم",
+  "heatRealtime": "زخم مباشر",
+  "realTime": "مباشر",
+  "unknown": "غير معروف",
+  "footer": "© 2026 نافذة على العالم | رصد الأخبار العالمية",
+  "categories": {
+    "tech": [
+      "استخبارات التقنية",
+      "الذكاء الاصطناعي وأشباه الموصلات والفضاء والبحث المتقدم"
+    ],
+    "politics": [
+      "السياسة والدبلوماسية",
+      "الانتخابات والدبلوماسية والجغرافيا السياسية"
+    ],
+    "finance": [
+      "المال العالمي",
+      "الأسواق والعملات والاندماجات والاقتصاد الكلي"
+    ],
+    "general": [
+      "تحديثات عامة",
+      "قضايا اجتماعية وطوارئ وموجزات عالمية"
+    ],
+    "environment": [
+      "البيئة والمناخ",
+      "المناخ وحماية النظم البيئية"
+    ],
+    "health": [
+      "الصحة العالمية",
+      "الصحة العامة والابتكارات الطبية"
+    ],
+    "science": [
+      "استكشاف العلوم",
+      "الفضاء والفيزياء والوراثة"
+    ],
+    "culture": [
+      "الثقافة والفنون",
+      "التراث واتجاهات الفن والمجتمع"
+    ]
+  },
+  "regions": {
+    "Global": "عالمي",
+    "North America": "أمريكا الشمالية",
+    "Europe": "أوروبا",
+    "Asia": "آسيا",
+    "Africa": "أفريقيا",
+    "South America": "أمريكا الجنوبية",
+    "Oceania": "أوقيانوسيا"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "تغطية إضافية لهذه القصة.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "أخبار عالمية",
+  "sectionsKicker": "الأقسام",
+  "regionKicker": "المنطقة",
+  "backSections": "← الأقسام",
+  "back": "← رجوع",
+  "orientationTip": "على الشاشات الصغيرة، استخدم الوضع الأفقي لقراءة أفضل.",
+  "introKicker": "About نافذة على العالم",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "نافذة على العالم gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "نافذة على العالم",
+  "sortLabel": "الترتيب",
+  "sortHeat": "الأهمية",
+  "sortTime": "الأحدث",
+  "feedbackButton": "ملاحظات",
+  "noticeKicker": "تنبيه",
+  "noticeTitle": "حول الموقع",
+  "noticeBody": "لا يزال هذا الموقع في مراحله الأولى. قد لا تكون بعض الميزات مكتملة بعد، ونحن نعمل على تحسينها تدريجياً. نرحب بالملاحظات عبر البريد الإلكتروني.",
+  "feedbackKicker": "ملاحظات",
+  "feedbackTitle": "بريد الملاحظات",
+  "feedbackIntro": "بريد الملاحظات: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "بريد الملاحظات",
+  "feedbackMailAction": "إرسال بريد",
+  "feedbackClose": "إغلاق"
+}

@@ -1,0 +1,114 @@
+{
+  "title": "世界の窓 | グローバルニュース",
+  "syncTitle": "ニュースを更新中",
+  "syncDesc": "信頼できる情報源とキャッシュを更新しています。",
+  "heroSubtitle": "テーマと地域で読む世界のニュース",
+  "heroTagline": "最新記事 · 地域フィルター",
+  "enter": "ダッシュボードを開く",
+  "homeTitle": "トピックを選択",
+  "homeDesc": "セクションを選択。",
+  "latestSync": "最終更新",
+  "live": "ライブ",
+  "scope": "範囲",
+  "currentView": "表示",
+  "globalMonitoring": "グローバル",
+  "regionMonitoring": "地域",
+  "mapTitle": "地域",
+  "mapDesc": "大陸で絞り込み。",
+  "resetGlobal": "グローバル表示",
+  "loadingTitle": "最新記事を読み込み中",
+  "loadingDesc": "最新記事を整理しています...",
+  "emptyTitle": "報道はまだありません",
+  "emptyDesc": "地域を変えるか、少し後に確認してください。",
+  "errorTitle": "報道を読み込めません",
+  "retry": "再試行",
+  "openOriginal": "配信元で読む",
+  "heat": "熱度",
+  "heatRealtime": "リアルタイム熱度",
+  "realTime": "ライブ",
+  "unknown": "不明",
+  "footer": "© 2026 世界の窓 | グローバルニュース",
+  "categories": {
+    "tech": [
+      "テクノロジー情報",
+      "AI、半導体、宇宙、先端研究"
+    ],
+    "politics": [
+      "政治・外交",
+      "選挙、外交、地政学"
+    ],
+    "finance": [
+      "グローバル金融",
+      "市場、通貨、M&A、マクロ経済"
+    ],
+    "general": [
+      "総合ニュース",
+      "社会問題、緊急情報、世界速報"
+    ],
+    "environment": [
+      "環境・気候",
+      "気候変動と生態保護"
+    ],
+    "health": [
+      "グローバルヘルス",
+      "公衆衛生と医療革新"
+    ],
+    "science": [
+      "科学探索",
+      "宇宙、物理、遺伝学研究"
+    ],
+    "culture": [
+      "文化・芸術",
+      "遺産、芸術トレンド、文化"
+    ]
+  },
+  "regions": {
+    "Global": "グローバル",
+    "North America": "北米",
+    "Europe": "欧州",
+    "Asia": "アジア",
+    "Africa": "アフリカ",
+    "South America": "南米",
+    "Oceania": "オセアニア"
+  },
+  "moreCoverage": "他 {count} 媒体も報道",
+  "viewMore": "もっと見る",
+  "relatedCoverage": "関連",
+  "relatedTitle": "他の報道",
+  "relatedSubtitle": "このニュースの追加報道。",
+  "representativeReport": "代表記事",
+  "otherReports": "その他の記事",
+  "noRelated": "追加の報道はまだありません",
+  "backHome": "← ホーム",
+  "welcomeKicker": "グローバルニュース",
+  "sectionsKicker": "セクション",
+  "regionKicker": "地域",
+  "backSections": "← セクション",
+  "back": "← 戻る",
+  "orientationTip": "小さな画面では横向き表示がおすすめです。",
+  "introKicker": "世界の窓について",
+  "introHeading": "信頼できる報道で世界を見る",
+  "introLead": "世界の窓は信頼できるメディアや公的機関の最新報道を集め、テーマと大陸別に整理し、同じ出来事の関連報道をまとめます。",
+  "introCard1Title": "信頼できる情報源",
+  "introCard1Text": "主要メディア、公的機関、専門メディアの報道を集めます。",
+  "introCard2Title": "地域別表示",
+  "introCard2Text": "大陸ごとのフィードと、注目度順の Global 表示を提供します。",
+  "introCard3Title": "重複を削減",
+  "introCard3Text": "同じ出来事の複数報道を関連報道にまとめます。",
+  "introCard4Title": "原文へ",
+  "introCard4Text": "元記事を開き、必要に応じて他の報道と比較できます。",
+  "brandName": "世界の窓",
+  "sortLabel": "並び替え",
+  "sortHeat": "注目度",
+  "sortTime": "新着",
+  "feedbackButton": "フィードバック",
+  "noticeKicker": "お知らせ",
+  "noticeTitle": "このサイトについて",
+  "noticeBody": "このサイトはまだ初期段階です。未完成の機能もありますが、少しずつ改善しています。ご意見はメールでお送りください。",
+  "feedbackKicker": "フィードバック",
+  "feedbackTitle": "フィードバック用メール",
+  "feedbackIntro": "フィードバック先：sochenxiang@outlook.com",
+  "feedbackEmailLabel": "メールアドレス",
+  "feedbackMailAction": "メールを送る",
+  "feedbackClose": "閉じる"
+}

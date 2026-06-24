@@ -1,0 +1,114 @@
+{
+  "title": "दुनिया की खिड़की | वैश्विक समाचार मॉनिटर",
+  "syncTitle": "इंटेलिजेंस सिंक हो रहा है",
+  "syncDesc": "वैश्विक समाचार संकेत अपडेट किए जा रहे हैं...",
+  "heroSubtitle": "विषय और क्षेत्र के अनुसार विश्व समाचार",
+  "heroTagline": "ताज़ा रिपोर्ट · क्षेत्रीय फ़िल्टर",
+  "enter": "मॉनिटरिंग हॉल में जाएँ",
+  "homeTitle": "मॉनिटरिंग मैट्रिक्स",
+  "homeDesc": "एक विभाग चुनें।",
+  "latestSync": "अंतिम सिंक",
+  "live": "लाइव",
+  "scope": "दायरा",
+  "currentView": "वर्तमान दृश्य",
+  "globalMonitoring": "वैश्विक निगरानी",
+  "regionMonitoring": "क्षेत्रीय निगरानी",
+  "mapTitle": "भौगोलिक फ़िल्टर",
+  "mapDesc": "महाद्वीप से फ़िल्टर करें।",
+  "resetGlobal": "वैश्विक दृश्य रीसेट करें",
+  "loadingTitle": "ताज़ा रिपोर्ट लोड हो रही हैं",
+  "loadingDesc": "ताज़ा रिपोर्ट क्रमबद्ध हो रही हैं...",
+  "emptyTitle": "कोई मिलती-जुलती खबर नहीं",
+  "emptyDesc": "क्षेत्र/श्रेणी बदलें या बाद में प्रयास करें।",
+  "errorTitle": "समाचार क्रॉल विफल",
+  "retry": "फिर प्रयास करें",
+  "openOriginal": "मूल खोलें",
+  "heat": "लोकप्रियता",
+  "heatRealtime": "लाइव लोकप्रियता",
+  "realTime": "लाइव",
+  "unknown": "अज्ञात",
+  "footer": "© 2026 दुनिया की खिड़की | वैश्विक समाचार मॉनिटर",
+  "categories": {
+    "tech": [
+      "तकनीकी खुफिया",
+      "AI, सेमीकंडक्टर, अंतरिक्ष और अग्रणी R&D"
+    ],
+    "politics": [
+      "राजनीति और कूटनीति",
+      "चुनाव, कूटनीति और भू-राजनीति"
+    ],
+    "finance": [
+      "वैश्विक वित्त",
+      "बाज़ार, मुद्राएँ, M&A और मैक्रो अर्थव्यवस्था"
+    ],
+    "general": [
+      "सामान्य अपडेट",
+      "सामाजिक मुद्दे, आपात स्थिति और वैश्विक संक्षेप"
+    ],
+    "environment": [
+      "पर्यावरण और जलवायु",
+      "जलवायु और पारिस्थितिकी संरक्षण"
+    ],
+    "health": [
+      "वैश्विक स्वास्थ्य",
+      "सार्वजनिक स्वास्थ्य और चिकित्सा नवाचार"
+    ],
+    "science": [
+      "विज्ञान अन्वेषण",
+      "अंतरिक्ष, भौतिकी और आनुवंशिकी"
+    ],
+    "culture": [
+      "संस्कृति और कला",
+      "विरासत, कला रुझान और समाज"
+    ]
+  },
+  "regions": {
+    "Global": "वैश्विक",
+    "North America": "उत्तरी अमेरिका",
+    "Europe": "यूरोप",
+    "Asia": "एशिया",
+    "Africa": "अफ्रीका",
+    "South America": "दक्षिण अमेरिका",
+    "Oceania": "ओशिआनिया"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "इस खबर की और कवरेज।",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "वैश्विक समाचार",
+  "sectionsKicker": "विभाग",
+  "regionKicker": "क्षेत्र",
+  "backSections": "← विभाग",
+  "back": "← वापस",
+  "orientationTip": "छोटी स्क्रीन पर बेहतर पढ़ने के लिए लैंडस्केप मोड इस्तेमाल करें।",
+  "introKicker": "About दुनिया की खिड़की",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "दुनिया की खिड़की gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "दुनिया की खिड़की",
+  "sortLabel": "क्रम",
+  "sortHeat": "महत्व",
+  "sortTime": "नवीनतम",
+  "feedbackButton": "प्रतिक्रिया",
+  "noticeKicker": "सूचना",
+  "noticeTitle": "इस वेबसाइट के बारे में",
+  "noticeBody": "यह वेबसाइट अभी शुरुआती चरण में है। कुछ सुविधाएँ अभी पूरी तरह बेहतर नहीं हो सकतीं, और हम उन्हें धीरे-धीरे सुधार रहे हैं। सुझाव ईमेल से भेज सकते हैं।",
+  "feedbackKicker": "प्रतिक्रिया",
+  "feedbackTitle": "प्रतिक्रिया ईमेल",
+  "feedbackIntro": "प्रतिक्रिया ईमेल: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "प्रतिक्रिया ईमेल",
+  "feedbackMailAction": "ईमेल भेजें",
+  "feedbackClose": "बंद करें"
+}

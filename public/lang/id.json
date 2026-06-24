@@ -1,0 +1,114 @@
+{
+  "title": "Jendela Dunia | Monitor Berita Global",
+  "syncTitle": "Menyinkronkan intelijen",
+  "syncDesc": "Memperbarui sinyal berita global...",
+  "heroSubtitle": "Berita dunia menurut topik dan wilayah",
+  "heroTagline": "Laporan terbaru · Filter wilayah",
+  "enter": "Masuk ke Ruang Pemantauan",
+  "homeTitle": "Matriks Pemantauan",
+  "homeDesc": "Pilih bagian.",
+  "latestSync": "Sinkronisasi Terakhir",
+  "live": "Langsung",
+  "scope": "Cakupan",
+  "currentView": "Tampilan Saat Ini",
+  "globalMonitoring": "pemantauan global",
+  "regionMonitoring": "pemantauan regional",
+  "mapTitle": "Filter Geografis",
+  "mapDesc": "Filter menurut benua.",
+  "resetGlobal": "Reset Tampilan Global",
+  "loadingTitle": "Memuat laporan terbaru",
+  "loadingDesc": "Mengurutkan laporan terbaru...",
+  "emptyTitle": "Tidak ada pembaruan yang cocok",
+  "emptyDesc": "Ganti wilayah/kategori atau coba lagi nanti.",
+  "errorTitle": "Perayapan berita gagal",
+  "retry": "Coba lagi",
+  "openOriginal": "Buka asli",
+  "heat": "Tren",
+  "heatRealtime": "Tren langsung",
+  "realTime": "Langsung",
+  "unknown": "Tidak diketahui",
+  "footer": "© 2026 Jendela Dunia | Monitor Berita Global",
+  "categories": {
+    "tech": [
+      "Intelijen Teknologi",
+      "AI, semikonduktor, antariksa dan R&D mutakhir"
+    ],
+    "politics": [
+      "Politik & Diplomasi",
+      "Pemilu, diplomasi dan geopolitik"
+    ],
+    "finance": [
+      "Keuangan Global",
+      "Pasar, mata uang, M&A dan ekonomi makro"
+    ],
+    "general": [
+      "Pembaruan Umum",
+      "Isu sosial, darurat dan ringkasan global"
+    ],
+    "environment": [
+      "Lingkungan & Iklim",
+      "Iklim dan perlindungan ekologi"
+    ],
+    "health": [
+      "Kesehatan Global",
+      "Kesehatan publik dan inovasi medis"
+    ],
+    "science": [
+      "Eksplorasi Sains",
+      "Antariksa, fisika dan genetika"
+    ],
+    "culture": [
+      "Budaya & Seni",
+      "Warisan, tren seni dan masyarakat"
+    ]
+  },
+  "regions": {
+    "Global": "Global",
+    "North America": "Amerika Utara",
+    "Europe": "Eropa",
+    "Asia": "Asia",
+    "Africa": "Afrika",
+    "South America": "Amerika Selatan",
+    "Oceania": "Oseania"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Liputan lain tentang berita ini.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Berita global",
+  "sectionsKicker": "Bagian",
+  "regionKicker": "Wilayah",
+  "backSections": "← Bagian",
+  "back": "← Kembali",
+  "orientationTip": "Di layar kecil, gunakan mode lanskap agar lebih nyaman dibaca.",
+  "introKicker": "About Jendela Dunia",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Jendela Dunia gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Jendela Dunia",
+  "sortLabel": "Urutkan",
+  "sortHeat": "Relevansi",
+  "sortTime": "Terbaru",
+  "feedbackButton": "Masukan",
+  "noticeKicker": "Catatan",
+  "noticeTitle": "Tentang situs ini",
+  "noticeBody": "Situs ini masih dalam tahap awal. Beberapa fitur mungkin belum sempurna, dan kami terus memperbaikinya. Masukan dapat dikirim melalui email.",
+  "feedbackKicker": "Masukan",
+  "feedbackTitle": "Email masukan",
+  "feedbackIntro": "Email masukan: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Email masukan",
+  "feedbackMailAction": "Kirim email",
+  "feedbackClose": "Tutup"
+}

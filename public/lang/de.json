@@ -1,0 +1,114 @@
+{
+  "title": "Weltblick | Globaler News-Monitor",
+  "syncTitle": "News werden aktualisiert",
+  "syncDesc": "Quellen und Cache werden aktualisiert.",
+  "heroSubtitle": "Weltnachrichten nach Thema und Region",
+  "heroTagline": "Neue Berichte · Regionale Filter",
+  "enter": "Dashboard öffnen",
+  "homeTitle": "Thema wählen",
+  "homeDesc": "Wählen Sie eine Rubrik.",
+  "latestSync": "Aktualisiert",
+  "live": "Live",
+  "scope": "Umfang",
+  "currentView": "Ansicht",
+  "globalMonitoring": "Global",
+  "regionMonitoring": "Region",
+  "mapTitle": "Region",
+  "mapDesc": "Nach Kontinent filtern.",
+  "resetGlobal": "Globale Ansicht",
+  "loadingTitle": "Aktuelle Berichte laden",
+  "loadingDesc": "Aktuelle Berichte werden sortiert...",
+  "emptyTitle": "Noch keine Berichte",
+  "emptyDesc": "Andere Region wählen oder später erneut prüfen.",
+  "errorTitle": "Berichte nicht verfügbar",
+  "retry": "Erneut versuchen",
+  "openOriginal": "Quelle lesen",
+  "heat": "Trend",
+  "heatRealtime": "Live-Trend",
+  "realTime": "Live",
+  "unknown": "Unbekannt",
+  "footer": "© 2026 Weltblick | Globaler News-Monitor",
+  "categories": {
+    "tech": [
+      "Technologie",
+      "KI, Halbleiter, Raumfahrt und F&E"
+    ],
+    "politics": [
+      "Politik & Diplomatie",
+      "Wahlen, Diplomatie und Geopolitik"
+    ],
+    "finance": [
+      "Globale Finanzen",
+      "Märkte, Währungen, M&A und Makroökonomie"
+    ],
+    "general": [
+      "Allgemeine Updates",
+      "Gesellschaft, Notfälle und globale Meldungen"
+    ],
+    "environment": [
+      "Umwelt & Klima",
+      "Klima und Ökosystemschutz"
+    ],
+    "health": [
+      "Globale Gesundheit",
+      "Öffentliche Gesundheit und Medizin"
+    ],
+    "science": [
+      "Wissenschaft",
+      "Raumfahrt, Physik und Genetik"
+    ],
+    "culture": [
+      "Kultur & Kunst",
+      "Erbe, Kunsttrends und Gesellschaft"
+    ]
+  },
+  "regions": {
+    "Global": "Global",
+    "North America": "Nordamerika",
+    "Europe": "Europa",
+    "Asia": "Asien",
+    "Africa": "Afrika",
+    "South America": "Südamerika",
+    "Oceania": "Ozeanien"
+  },
+  "moreCoverage": "{count} weitere Medien berichten darüber",
+  "viewMore": "Mehr anzeigen",
+  "relatedCoverage": "Verwandt",
+  "relatedTitle": "Weitere Berichte",
+  "relatedSubtitle": "Weitere Berichte zu diesem Thema.",
+  "representativeReport": "Leitbericht",
+  "otherReports": "Mehr Berichte",
+  "noRelated": "Noch keine weiteren Berichte",
+  "backHome": "← Start",
+  "welcomeKicker": "Globaler News-Monitor",
+  "sectionsKicker": "Rubriken",
+  "regionKicker": "Region",
+  "backSections": "← Rubriken",
+  "back": "← Zurück",
+  "orientationTip": "Auf kleinen Bildschirmen ist Querformat angenehmer.",
+  "introKicker": "Über Weltblick",
+  "introHeading": "Die Welt durch verlässliche Berichte sehen",
+  "introLead": "Weltblick bündelt aktuelle Berichte aus verlässlichen Medien und öffentlichen Quellen, ordnet sie nach Thema und Kontinent und gruppiert verwandte Meldungen.",
+  "introCard1Title": "Verlässliche Quellen",
+  "introCard1Text": "Etablierte Medien, Institutionen und Fachquellen.",
+  "introCard2Title": "Regionale Sicht",
+  "introCard2Text": "Jeder Kontinent hat einen eigenen Feed; Global zeigt die wichtigsten Themen.",
+  "introCard3Title": "Weniger Wiederholung",
+  "introCard3Text": "Berichte zum selben Ereignis werden zusammengeführt.",
+  "introCard4Title": "Zur Quelle",
+  "introCard4Text": "Öffnen Sie den Originalartikel und vergleichen Sie verwandte Berichte.",
+  "brandName": "Weltblick",
+  "sortLabel": "Sortieren",
+  "sortHeat": "Relevanz",
+  "sortTime": "Neueste",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Hinweis",
+  "noticeTitle": "Über diese Website",
+  "noticeBody": "Diese Website befindet sich noch in einer frühen Phase. Einige Funktionen sind möglicherweise noch nicht perfekt. Wir verbessern sie Schritt für Schritt. Feedback ist per E-Mail willkommen.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "Feedback-E-Mail",
+  "feedbackIntro": "Feedback-E-Mail: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Feedback-E-Mail",
+  "feedbackMailAction": "E-Mail senden",
+  "feedbackClose": "Schließen"
+}

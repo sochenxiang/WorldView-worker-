@@ -1,0 +1,114 @@
+{
+  "title": "Blik op de Wereld | Wereldnieuwsmonitor",
+  "syncTitle": "Informatie synchroniseren",
+  "syncDesc": "Wereldwijde nieuwssignalen worden bijgewerkt...",
+  "heroSubtitle": "Wereldnieuws per onderwerp en regio",
+  "heroTagline": "Laatste berichten · Regiofilters",
+  "enter": "Monitoringhal openen",
+  "homeTitle": "Monitoringmatrix",
+  "homeDesc": "Kies een rubriek.",
+  "latestSync": "Laatste synchronisatie",
+  "live": "Live",
+  "scope": "Bereik",
+  "currentView": "Huidige weergave",
+  "globalMonitoring": "wereldwijde monitoring",
+  "regionMonitoring": "regionale monitoring",
+  "mapTitle": "Geografisch filter",
+  "mapDesc": "Filter op continent.",
+  "resetGlobal": "Wereldweergave resetten",
+  "loadingTitle": "Laatste berichten laden",
+  "loadingDesc": "Laatste berichten sorteren...",
+  "emptyTitle": "Geen overeenkomende updates",
+  "emptyDesc": "Wijzig regio/categorie of probeer later opnieuw.",
+  "errorTitle": "Nieuws ophalen mislukt",
+  "retry": "Opnieuw proberen",
+  "openOriginal": "Origineel openen",
+  "heat": "Trend",
+  "heatRealtime": "Live trend",
+  "realTime": "Live",
+  "unknown": "Onbekend",
+  "footer": "© 2026 Blik op de Wereld | Wereldnieuwsmonitor",
+  "categories": {
+    "tech": [
+      "Technologie-intelligentie",
+      "AI, halfgeleiders, ruimtevaart en R&D"
+    ],
+    "politics": [
+      "Politiek & diplomatie",
+      "Verkiezingen, diplomatie en geopolitiek"
+    ],
+    "finance": [
+      "Wereldwijde financiën",
+      "Markten, valuta, M&A en macro-economie"
+    ],
+    "general": [
+      "Algemene updates",
+      "Sociale kwesties, noodsituaties en wereldnieuws"
+    ],
+    "environment": [
+      "Milieu & klimaat",
+      "Klimaat en ecologische bescherming"
+    ],
+    "health": [
+      "Wereldgezondheid",
+      "Volksgezondheid en medische innovatie"
+    ],
+    "science": [
+      "Wetenschap",
+      "Ruimte, natuurkunde en genetica"
+    ],
+    "culture": [
+      "Cultuur & kunst",
+      "Erfgoed, kunsttrends en samenleving"
+    ]
+  },
+  "regions": {
+    "Global": "Wereldwijd",
+    "North America": "Noord-Amerika",
+    "Europe": "Europa",
+    "Asia": "Azië",
+    "Africa": "Afrika",
+    "South America": "Zuid-Amerika",
+    "Oceania": "Oceanië"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Meer berichtgeving over dit verhaal.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "Gebruik op kleine schermen de liggende stand voor beter lezen.",
+  "introKicker": "About Blik op de Wereld",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Blik op de Wereld gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Blik op de Wereld",
+  "sortLabel": "Sorteren",
+  "sortHeat": "Relevantie",
+  "sortTime": "Nieuwste",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Opmerking",
+  "noticeTitle": "Over deze site",
+  "noticeBody": "Deze site is nog in een vroege fase. Sommige functies zijn mogelijk nog niet perfect; we verbeteren ze stap voor stap. Suggesties zijn welkom per e-mail.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "Feedback-e-mail",
+  "feedbackIntro": "Feedback-e-mail: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Feedback-e-mail",
+  "feedbackMailAction": "E-mail sturen",
+  "feedbackClose": "Sluiten"
+}

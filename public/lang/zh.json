@@ -1,0 +1,114 @@
+{
+  "title": "全球视窗 | 全球资讯监测",
+  "syncTitle": "正在更新资讯",
+  "syncDesc": "正在检查权威来源并刷新缓存。",
+  "heroSubtitle": "按主题和地区浏览全球资讯",
+  "heroTagline": "最新报道 · 地区筛选",
+  "enter": "打开面板",
+  "homeTitle": "选择主题",
+  "homeDesc": "选择栏目。",
+  "latestSync": "上次更新",
+  "live": "实时",
+  "scope": "监测范围",
+  "currentView": "视图",
+  "globalMonitoring": "全球",
+  "regionMonitoring": "区域",
+  "mapTitle": "地区",
+  "mapDesc": "按大洲筛选。",
+  "resetGlobal": "全球视图",
+  "loadingTitle": "正在加载最新报道",
+  "loadingDesc": "正在整理最新报道...",
+  "emptyTitle": "暂无报道",
+  "emptyDesc": "可以切换地区，稍后再试。",
+  "errorTitle": "报道加载失败",
+  "retry": "重试",
+  "openOriginal": "阅读原文",
+  "heat": "热度",
+  "heatRealtime": "热度实时",
+  "realTime": "实时",
+  "unknown": "未知",
+  "footer": "© 2026 全球视窗 | 全球资讯监测",
+  "categories": {
+    "tech": [
+      "科技情报",
+      "AI、半导体、航天及前沿研发"
+    ],
+    "politics": [
+      "政治外交",
+      "大国博弈、选举及地缘冲突"
+    ],
+    "finance": [
+      "全球金融",
+      "股市、货币、并购及宏观经济"
+    ],
+    "general": [
+      "综合动态",
+      "社会热点、突发事件及全球快讯"
+    ],
+    "environment": [
+      "环境气候",
+      "碳中和、气候变化及生态保护"
+    ],
+    "health": [
+      "全球健康",
+      "公共卫生、医疗突破及疫情监测"
+    ],
+    "science": [
+      "科学探索",
+      "量子物理、基因编辑及天文观测"
+    ],
+    "culture": [
+      "文化艺术",
+      "全球遗产、艺术趋势及社会文化"
+    ]
+  },
+  "regions": {
+    "Global": "全球",
+    "North America": "北美",
+    "Europe": "欧洲",
+    "Asia": "亚洲",
+    "Africa": "非洲",
+    "South America": "南美",
+    "Oceania": "大洋洲"
+  },
+  "moreCoverage": "另有 {count} 家媒体报道",
+  "viewMore": "查看更多",
+  "relatedCoverage": "相关",
+  "relatedTitle": "其它报道",
+  "relatedSubtitle": "更多相关报道。",
+  "representativeReport": "代表报道",
+  "otherReports": "更多报道",
+  "noRelated": "暂无更多报道",
+  "backHome": "← 返回首页",
+  "welcomeKicker": "全球资讯监测",
+  "sectionsKicker": "栏目",
+  "regionKicker": "地区",
+  "backSections": "← 返回栏目",
+  "back": "← 返回",
+  "orientationTip": "小屏幕建议横屏浏览，阅读体验更好。",
+  "introKicker": "关于全球视窗",
+  "introHeading": "从可信报道看见世界",
+  "introLead": "全球视窗聚合全球主流媒体、公共机构与专业来源的最新报道，按主题和大洲整理资讯，并归并同一事件的相关报道，让你更快看清重要动态。",
+  "introCard1Title": "可信来源",
+  "introCard1Text": "聚合主流媒体、公共机构与专业新闻来源。",
+  "introCard2Title": "区域视角",
+  "introCard2Text": "各大洲独立成列，全球页集中呈现高热度新闻。",
+  "introCard3Title": "减少重复",
+  "introCard3Text": "同一事件的多家报道会归入相关报道。",
+  "introCard4Title": "直达原文",
+  "introCard4Text": "可打开原始报道，并对比同一事件的其它来源。",
+  "brandName": "全球视窗",
+  "sortLabel": "排序",
+  "sortHeat": "热度",
+  "sortTime": "最新",
+  "feedbackButton": "反馈",
+  "noticeKicker": "提示",
+  "noticeTitle": "关于本站",
+  "noticeBody": "本网站仍处于初创阶段，部分功能可能还不完善，我们正在持续改进。如果你有好的意见或建议，欢迎通过邮件反馈。",
+  "feedbackKicker": "反馈",
+  "feedbackTitle": "反馈邮箱",
+  "feedbackIntro": "反馈邮箱为：sochenxiang@outlook.com",
+  "feedbackEmailLabel": "反馈邮箱",
+  "feedbackMailAction": "发送邮件",
+  "feedbackClose": "关闭"
+}

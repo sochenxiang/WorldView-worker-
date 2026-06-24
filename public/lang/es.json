@@ -1,0 +1,114 @@
+{
+  "title": "Ventana al Mundo | Noticias globales",
+  "syncTitle": "Actualizando noticias",
+  "syncDesc": "Revisando fuentes y caché.",
+  "heroSubtitle": "Noticias globales por tema y región",
+  "heroTagline": "Últimos reportes · Filtros regionales",
+  "enter": "Abrir panel",
+  "homeTitle": "Elige un tema",
+  "homeDesc": "Elige una sección.",
+  "latestSync": "Actualizado",
+  "live": "En vivo",
+  "scope": "Alcance",
+  "currentView": "Vista",
+  "globalMonitoring": "Global",
+  "regionMonitoring": "región",
+  "mapTitle": "Región",
+  "mapDesc": "Filtra por continente.",
+  "resetGlobal": "Vista global",
+  "loadingTitle": "Cargando últimos reportes",
+  "loadingDesc": "Ordenando últimos reportes...",
+  "emptyTitle": "Aún no hay reportes",
+  "emptyDesc": "Prueba otra región o vuelve pronto.",
+  "errorTitle": "No se pudieron cargar reportes",
+  "retry": "Reintentar",
+  "openOriginal": "Leer fuente",
+  "heat": "Tendencia",
+  "heatRealtime": "Tendencia en vivo",
+  "realTime": "En vivo",
+  "unknown": "Desconocido",
+  "footer": "© 2026 Ventana al Mundo | Noticias globales",
+  "categories": {
+    "tech": [
+      "Tecnología",
+      "IA, semiconductores, espacio e I+D"
+    ],
+    "politics": [
+      "Política y diplomacia",
+      "Elecciones, diplomacia y geopolítica"
+    ],
+    "finance": [
+      "Finanzas globales",
+      "Mercados, divisas, M&A y macroeconomía"
+    ],
+    "general": [
+      "Actualidad general",
+      "Sociedad, emergencias y noticias globales"
+    ],
+    "environment": [
+      "Medio ambiente y clima",
+      "Clima y protección ecológica"
+    ],
+    "health": [
+      "Salud global",
+      "Salud pública e innovación médica"
+    ],
+    "science": [
+      "Ciencia",
+      "Espacio, física y genética"
+    ],
+    "culture": [
+      "Cultura y artes",
+      "Patrimonio, arte y sociedad"
+    ]
+  },
+  "regions": {
+    "Global": "Global",
+    "North America": "Norteamérica",
+    "Europe": "Europa",
+    "Asia": "Asia",
+    "Africa": "África",
+    "South America": "Sudamérica",
+    "Oceania": "Oceanía"
+  },
+  "moreCoverage": "{count} medios más lo cubren",
+  "viewMore": "Ver más",
+  "relatedCoverage": "Relacionado",
+  "relatedTitle": "Otros reportes",
+  "relatedSubtitle": "Más cobertura de esta historia.",
+  "representativeReport": "Reporte principal",
+  "otherReports": "Más reportes",
+  "noRelated": "Aún no hay más cobertura",
+  "backHome": "← Inicio",
+  "welcomeKicker": "Noticias globales",
+  "sectionsKicker": "Secciones",
+  "regionKicker": "Región",
+  "backSections": "← Secciones",
+  "back": "← Volver",
+  "orientationTip": "En pantallas pequeñas, usa el modo horizontal para leer mejor.",
+  "introKicker": "Acerca de Ventana al Mundo",
+  "introHeading": "Ver el mundo con fuentes fiables",
+  "introLead": "Ventana al Mundo reúne reportes recientes de medios y fuentes públicas fiables, los organiza por tema y continente, y agrupa coberturas relacionadas.",
+  "introCard1Title": "Fuentes fiables",
+  "introCard1Text": "Medios consolidados, instituciones y fuentes especializadas.",
+  "introCard2Title": "Vista regional",
+  "introCard2Text": "Cada continente tiene su feed; Global destaca lo más relevante.",
+  "introCard3Title": "Menos repetición",
+  "introCard3Text": "Las coberturas del mismo hecho se agrupan.",
+  "introCard4Title": "Leer la fuente",
+  "introCard4Text": "Abre el artículo original y compara coberturas relacionadas.",
+  "brandName": "Ventana al Mundo",
+  "sortLabel": "Ordenar",
+  "sortHeat": "Relevancia",
+  "sortTime": "Recientes",
+  "feedbackButton": "Comentarios",
+  "noticeKicker": "Aviso",
+  "noticeTitle": "Acerca del sitio",
+  "noticeBody": "Este sitio aún está en una etapa inicial. Algunas funciones pueden no estar perfectas; las estamos mejorando paso a paso. Puedes enviar sugerencias por correo.",
+  "feedbackKicker": "Comentarios",
+  "feedbackTitle": "Correo de contacto",
+  "feedbackIntro": "Correo para comentarios: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Correo de contacto",
+  "feedbackMailAction": "Enviar correo",
+  "feedbackClose": "Cerrar"
+}

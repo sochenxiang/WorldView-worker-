@@ -1,0 +1,114 @@
+{
+  "title": "หน้าต่างโลก | ติดตามข่าวทั่วโลก",
+  "syncTitle": "กำลังซิงค์ข้อมูล",
+  "syncDesc": "กำลังอัปเดตสัญญาณข่าวทั่วโลก...",
+  "heroSubtitle": "ข่าวโลกตามหัวข้อและภูมิภาค",
+  "heroTagline": "รายงานล่าสุด · ตัวกรองภูมิภาค",
+  "enter": "เข้าสู่ศูนย์ติดตาม",
+  "homeTitle": "เมทริกซ์การติดตาม",
+  "homeDesc": "เลือกหมวด",
+  "latestSync": "ซิงค์ล่าสุด",
+  "live": "สด",
+  "scope": "ขอบเขต",
+  "currentView": "มุมมองปัจจุบัน",
+  "globalMonitoring": "ติดตามทั่วโลก",
+  "regionMonitoring": "ติดตามระดับภูมิภาค",
+  "mapTitle": "ตัวกรองภูมิภาค",
+  "mapDesc": "กรองตามทวีป",
+  "resetGlobal": "รีเซ็ตมุมมองทั่วโลก",
+  "loadingTitle": "กำลังโหลดข่าวล่าสุด",
+  "loadingDesc": "กำลังจัดเรียงข่าวล่าสุด...",
+  "emptyTitle": "ไม่พบข่าวที่ตรงกัน",
+  "emptyDesc": "เปลี่ยนภูมิภาค/หมวดหมู่ หรือลองใหม่ภายหลัง",
+  "errorTitle": "ดึงข่าวไม่สำเร็จ",
+  "retry": "ลองใหม่",
+  "openOriginal": "เปิดต้นฉบับ",
+  "heat": "ความนิยม",
+  "heatRealtime": "ความนิยมสด",
+  "realTime": "สด",
+  "unknown": "ไม่ทราบ",
+  "footer": "© 2026 หน้าต่างโลก | ติดตามข่าวทั่วโลก",
+  "categories": {
+    "tech": [
+      "ข่าวกรองเทคโนโลยี",
+      "AI เซมิคอนดักเตอร์ อวกาศ และ R&D ขั้นสูง"
+    ],
+    "politics": [
+      "การเมืองและการทูต",
+      "การเลือกตั้ง การทูต และภูมิรัฐศาสตร์"
+    ],
+    "finance": [
+      "การเงินโลก",
+      "ตลาด สกุลเงิน M&A และเศรษฐกิจมหภาค"
+    ],
+    "general": [
+      "อัปเดตทั่วไป",
+      "ประเด็นสังคม เหตุฉุกเฉิน และข่าวโลก"
+    ],
+    "environment": [
+      "สิ่งแวดล้อมและภูมิอากาศ",
+      "ภูมิอากาศและการคุ้มครองระบบนิเวศ"
+    ],
+    "health": [
+      "สุขภาพโลก",
+      "สาธารณสุขและนวัตกรรมการแพทย์"
+    ],
+    "science": [
+      "สำรวจวิทยาศาสตร์",
+      "อวกาศ ฟิสิกส์ และพันธุศาสตร์"
+    ],
+    "culture": [
+      "วัฒนธรรมและศิลปะ",
+      "มรดก แนวโน้มศิลปะ และสังคม"
+    ]
+  },
+  "regions": {
+    "Global": "ทั่วโลก",
+    "North America": "อเมริกาเหนือ",
+    "Europe": "ยุโรป",
+    "Asia": "เอเชีย",
+    "Africa": "แอฟริกา",
+    "South America": "อเมริกาใต้",
+    "Oceania": "โอเชียเนีย"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "ข่าวเพิ่มเติมเรื่องเดียวกัน",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "หน้าจอเล็กแนะนำให้หมุนเป็นแนวนอนเพื่ออ่านง่ายขึ้น",
+  "introKicker": "About หน้าต่างโลก",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "หน้าต่างโลก gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "หน้าต่างโลก",
+  "sortLabel": "จัดเรียง",
+  "sortHeat": "ความสำคัญ",
+  "sortTime": "ล่าสุด",
+  "feedbackButton": "ข้อเสนอแนะ",
+  "noticeKicker": "ประกาศ",
+  "noticeTitle": "เกี่ยวกับเว็บไซต์นี้",
+  "noticeBody": "เว็บไซต์นี้ยังอยู่ในช่วงเริ่มต้น บางฟังก์ชันอาจยังไม่สมบูรณ์ และเรากำลังปรับปรุงอย่างต่อเนื่อง หากมีข้อเสนอแนะสามารถส่งอีเมลได้",
+  "feedbackKicker": "ข้อเสนอแนะ",
+  "feedbackTitle": "อีเมลสำหรับข้อเสนอแนะ",
+  "feedbackIntro": "อีเมลสำหรับข้อเสนอแนะ: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "อีเมลข้อเสนอแนะ",
+  "feedbackMailAction": "ส่งอีเมล",
+  "feedbackClose": "ปิด"
+}

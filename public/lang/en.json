@@ -1,0 +1,114 @@
+{
+  "title": "WorldView | Global News Monitor",
+  "syncTitle": "Updating news",
+  "syncDesc": "Checking trusted sources and refreshing the cache.",
+  "heroSubtitle": "World news by topic and region",
+  "heroTagline": "Latest reports · Regional filters",
+  "enter": "Open Dashboard",
+  "homeTitle": "Choose a Topic",
+  "homeDesc": "Choose a section.",
+  "latestSync": "Last update",
+  "live": "Live",
+  "scope": "Scope",
+  "currentView": "View",
+  "globalMonitoring": "Global",
+  "regionMonitoring": "region",
+  "mapTitle": "Region",
+  "mapDesc": "Filter by continent.",
+  "resetGlobal": "Global view",
+  "loadingTitle": "Loading latest reports",
+  "loadingDesc": "Sorting latest reports...",
+  "emptyTitle": "No reports yet",
+  "emptyDesc": "Try another region or check again soon.",
+  "errorTitle": "Could not load reports",
+  "retry": "Try again",
+  "openOriginal": "Read source",
+  "heat": "Heat",
+  "heatRealtime": "Live heat",
+  "realTime": "Live",
+  "unknown": "Unknown",
+  "footer": "© 2026 WorldView | Global News Monitor",
+  "categories": {
+    "tech": [
+      "Technology Intelligence",
+      "AI, semiconductors, space and frontier R&D"
+    ],
+    "politics": [
+      "Politics & Diplomacy",
+      "Power competition, elections and geopolitical conflicts"
+    ],
+    "finance": [
+      "Global Finance",
+      "Markets, currencies, M&A and macro economy"
+    ],
+    "general": [
+      "General Updates",
+      "Social issues, emergencies and global briefs"
+    ],
+    "environment": [
+      "Environment & Climate",
+      "Net zero, climate change and ecology"
+    ],
+    "health": [
+      "Global Health",
+      "Public health, medical breakthroughs and outbreak monitoring"
+    ],
+    "science": [
+      "Science Exploration",
+      "Quantum physics, gene editing and astronomy"
+    ],
+    "culture": [
+      "Culture & Arts",
+      "Heritage, art trends and social culture"
+    ]
+  },
+  "regions": {
+    "Global": "Global",
+    "North America": "North America",
+    "Europe": "Europe",
+    "Asia": "Asia",
+    "Africa": "Africa",
+    "South America": "South America",
+    "Oceania": "Oceania"
+  },
+  "moreCoverage": "{count} more outlets covered this",
+  "viewMore": "See more",
+  "relatedCoverage": "Related",
+  "relatedTitle": "Other coverage",
+  "relatedSubtitle": "More coverage of this story.",
+  "representativeReport": "Lead report",
+  "otherReports": "More reports",
+  "noRelated": "No more coverage yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "For a better reading experience on small screens, rotate your device to landscape.",
+  "introKicker": "About WorldView",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "WorldView gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "WorldView",
+  "sortLabel": "Sort",
+  "sortHeat": "Heat",
+  "sortTime": "Newest",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Notice",
+  "noticeTitle": "About this site",
+  "noticeBody": "This website is still in its early stage. Some features may not be perfect yet, and we are improving it step by step. Suggestions are welcome by email.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "Feedback email",
+  "feedbackIntro": "Feedback email: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Feedback email",
+  "feedbackMailAction": "Send email",
+  "feedbackClose": "Close"
+}

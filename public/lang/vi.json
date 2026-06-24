@@ -1,0 +1,114 @@
+{
+  "title": "Cửa sổ Thế giới | Theo dõi Tin tức Toàn cầu",
+  "syncTitle": "Đang đồng bộ dữ liệu",
+  "syncDesc": "Đang cập nhật tín hiệu tin tức toàn cầu...",
+  "heroSubtitle": "Tin thế giới theo chủ đề và khu vực",
+  "heroTagline": "Tin mới · Bộ lọc khu vực",
+  "enter": "Vào sảnh giám sát",
+  "homeTitle": "Ma trận giám sát",
+  "homeDesc": "Chọn một mục.",
+  "latestSync": "Đồng bộ mới nhất",
+  "live": "Trực tiếp",
+  "scope": "Phạm vi",
+  "currentView": "Chế độ xem hiện tại",
+  "globalMonitoring": "giám sát toàn cầu",
+  "regionMonitoring": "giám sát khu vực",
+  "mapTitle": "Bộ lọc địa lý",
+  "mapDesc": "Lọc theo châu lục.",
+  "resetGlobal": "Đặt lại chế độ xem toàn cầu",
+  "loadingTitle": "Đang tải tin mới",
+  "loadingDesc": "Đang sắp xếp tin mới...",
+  "emptyTitle": "Không có tin phù hợp",
+  "emptyDesc": "Đổi khu vực/danh mục hoặc thử lại sau.",
+  "errorTitle": "Thu thập tin thất bại",
+  "retry": "Thử lại",
+  "openOriginal": "Mở bản gốc",
+  "heat": "Độ nóng",
+  "heatRealtime": "Độ nóng trực tiếp",
+  "realTime": "Trực tiếp",
+  "unknown": "Không rõ",
+  "footer": "© 2026 Cửa sổ Thế giới | Theo dõi Tin tức Toàn cầu",
+  "categories": {
+    "tech": [
+      "Tình báo công nghệ",
+      "AI, bán dẫn, không gian và R&D tiên tiến"
+    ],
+    "politics": [
+      "Chính trị & ngoại giao",
+      "Bầu cử, ngoại giao và địa chính trị"
+    ],
+    "finance": [
+      "Tài chính toàn cầu",
+      "Thị trường, tiền tệ, M&A và kinh tế vĩ mô"
+    ],
+    "general": [
+      "Cập nhật tổng hợp",
+      "Vấn đề xã hội, khẩn cấp và tin nhanh toàn cầu"
+    ],
+    "environment": [
+      "Môi trường & khí hậu",
+      "Khí hậu và bảo vệ sinh thái"
+    ],
+    "health": [
+      "Sức khỏe toàn cầu",
+      "Y tế công cộng và đổi mới y học"
+    ],
+    "science": [
+      "Khám phá khoa học",
+      "Không gian, vật lý và di truyền"
+    ],
+    "culture": [
+      "Văn hóa & nghệ thuật",
+      "Di sản, xu hướng nghệ thuật và xã hội"
+    ]
+  },
+  "regions": {
+    "Global": "Toàn cầu",
+    "North America": "Bắc Mỹ",
+    "Europe": "Châu Âu",
+    "Asia": "Châu Á",
+    "Africa": "Châu Phi",
+    "South America": "Nam Mỹ",
+    "Oceania": "Châu Đại Dương"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Các bài khác về câu chuyện này.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Tin tức toàn cầu",
+  "sectionsKicker": "Mục",
+  "regionKicker": "Khu vực",
+  "backSections": "← Mục",
+  "back": "← Quay lại",
+  "orientationTip": "Trên màn hình nhỏ, xoay ngang để đọc dễ hơn.",
+  "introKicker": "About Cửa sổ Thế giới",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Cửa sổ Thế giới gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Cửa sổ Thế giới",
+  "sortLabel": "Sắp xếp",
+  "sortHeat": "Độ nóng",
+  "sortTime": "Mới nhất",
+  "feedbackButton": "Góp ý",
+  "noticeKicker": "Thông báo",
+  "noticeTitle": "Về trang web này",
+  "noticeBody": "Trang web vẫn đang ở giai đoạn đầu. Một số tính năng có thể chưa hoàn thiện, và chúng tôi đang cải thiện từng bước. Bạn có thể gửi góp ý qua email.",
+  "feedbackKicker": "Góp ý",
+  "feedbackTitle": "Email góp ý",
+  "feedbackIntro": "Email góp ý: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Email góp ý",
+  "feedbackMailAction": "Gửi email",
+  "feedbackClose": "Đóng"
+}

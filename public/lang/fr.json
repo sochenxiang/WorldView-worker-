@@ -1,0 +1,114 @@
+{
+  "title": "Fenêtre sur le monde | Veille mondiale",
+  "syncTitle": "Mise à jour",
+  "syncDesc": "Sources fiables et cache en cours d’actualisation.",
+  "heroSubtitle": "L’actualité mondiale par thème et région",
+  "heroTagline": "Derniers articles · Filtres régionaux",
+  "enter": "Ouvrir le tableau",
+  "homeTitle": "Choisir un thème",
+  "homeDesc": "Choisissez une rubrique.",
+  "latestSync": "Mis à jour",
+  "live": "Live",
+  "scope": "Périmètre",
+  "currentView": "Vue",
+  "globalMonitoring": "Monde",
+  "regionMonitoring": "région",
+  "mapTitle": "Région",
+  "mapDesc": "Filtrer par continent.",
+  "resetGlobal": "Vue mondiale",
+  "loadingTitle": "Chargement des derniers articles",
+  "loadingDesc": "Tri des derniers articles...",
+  "emptyTitle": "Aucun article pour l’instant",
+  "emptyDesc": "Essayez une autre région ou revenez bientôt.",
+  "errorTitle": "Articles indisponibles",
+  "retry": "Réessayer",
+  "openOriginal": "Lire la source",
+  "heat": "Tendance",
+  "heatRealtime": "Tendance live",
+  "realTime": "Live",
+  "unknown": "Inconnu",
+  "footer": "© 2026 Fenêtre sur le monde | Veille mondiale",
+  "categories": {
+    "tech": [
+      "Technologie",
+      "IA, semi-conducteurs, espace et R&D"
+    ],
+    "politics": [
+      "Politique & diplomatie",
+      "Élections, diplomatie et géopolitique"
+    ],
+    "finance": [
+      "Finance mondiale",
+      "Marchés, devises, fusions et macroéconomie"
+    ],
+    "general": [
+      "Actualités générales",
+      "Société, urgences et brèves mondiales"
+    ],
+    "environment": [
+      "Environnement & climat",
+      "Climat et protection écologique"
+    ],
+    "health": [
+      "Santé mondiale",
+      "Santé publique et innovations médicales"
+    ],
+    "science": [
+      "Science",
+      "Espace, physique et génétique"
+    ],
+    "culture": [
+      "Culture & arts",
+      "Patrimoine, tendances artistiques et société"
+    ]
+  },
+  "regions": {
+    "Global": "Monde",
+    "North America": "Amérique du Nord",
+    "Europe": "Europe",
+    "Asia": "Asie",
+    "Africa": "Afrique",
+    "South America": "Amérique du Sud",
+    "Oceania": "Océanie"
+  },
+  "moreCoverage": "{count} autres médias en parlent",
+  "viewMore": "Voir plus",
+  "relatedCoverage": "Lié",
+  "relatedTitle": "Autres articles",
+  "relatedSubtitle": "Plus d’articles sur ce sujet.",
+  "representativeReport": "Article principal",
+  "otherReports": "Plus d’articles",
+  "noRelated": "Pas d’autre couverture pour l’instant",
+  "backHome": "← Accueil",
+  "welcomeKicker": "Veille mondiale",
+  "sectionsKicker": "Rubriques",
+  "regionKicker": "Région",
+  "backSections": "← Rubriques",
+  "back": "← Retour",
+  "orientationTip": "Sur petit écran, passez en mode paysage pour mieux lire.",
+  "introKicker": "À propos de Fenêtre sur le monde",
+  "introHeading": "Voir le monde à travers des sources fiables",
+  "introLead": "Fenêtre sur le monde rassemble des articles récents issus de médias fiables, les classe par thème et continent, et regroupe les couvertures liées pour suivre plus vite les grands événements.",
+  "introCard1Title": "Sources fiables",
+  "introCard1Text": "Médias établis, institutions publiques et sources spécialisées.",
+  "introCard2Title": "Vue régionale",
+  "introCard2Text": "Chaque continent a son fil; Global met en avant les sujets les plus forts.",
+  "introCard3Title": "Moins de répétition",
+  "introCard3Text": "Les articles sur le même événement sont regroupés.",
+  "introCard4Title": "Lire à la source",
+  "introCard4Text": "Ouvrez l’article original et comparez les couvertures liées.",
+  "brandName": "Fenêtre sur le monde",
+  "sortLabel": "Tri",
+  "sortHeat": "Tendance",
+  "sortTime": "Récent",
+  "feedbackButton": "Avis",
+  "noticeKicker": "Note",
+  "noticeTitle": "À propos du site",
+  "noticeBody": "Ce site est encore en phase de lancement. Certaines fonctions peuvent être imparfaites, et nous les améliorons progressivement. Vos suggestions sont les bienvenues par e-mail.",
+  "feedbackKicker": "Avis",
+  "feedbackTitle": "Adresse de contact",
+  "feedbackIntro": "Adresse de retour : sochenxiang@outlook.com",
+  "feedbackEmailLabel": "E-mail de contact",
+  "feedbackMailAction": "Envoyer un e-mail",
+  "feedbackClose": "Fermer"
+}

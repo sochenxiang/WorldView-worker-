@@ -1,0 +1,20 @@
+name = "worldview-worker"
+main = "worker.js"
+compatibility_date = "2026-06-07"
+
+# Static frontend files. Cloudflare Workers will serve everything in ./public,
+# while /api/* is handled by worker.js.
+[assets]
+directory = "./public"
+binding = "ASSETS"
+
+# Run once every 5 minutes. Each run updates one full category, all regions, and one RSS batch.
+[triggers]
+crons = ["*/5 * * * *"]
+
+# Create this KV namespace with:
+#   npx wrangler kv namespace create NEWS_KV
+# Then replace the placeholder id below.
+[[kv_namespaces]]
+binding = "NEWS_KV"
+id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"

@@ -1,0 +1,114 @@
+{
+  "title": "Världsblick | Global nyhetsmonitor",
+  "syncTitle": "Synkroniserar data",
+  "syncDesc": "Uppdaterar globala nyhetssignaler...",
+  "heroSubtitle": "Världsnyheter efter ämne och region",
+  "heroTagline": "Senaste rapporter · Regionfilter",
+  "enter": "Gå till övervakning",
+  "homeTitle": "Övervakningsmatris",
+  "homeDesc": "Välj en sektion.",
+  "latestSync": "Senaste synk",
+  "live": "Live",
+  "scope": "Omfattning",
+  "currentView": "Aktuell vy",
+  "globalMonitoring": "global övervakning",
+  "regionMonitoring": "regional övervakning",
+  "mapTitle": "Geografiskt filter",
+  "mapDesc": "Filtrera efter kontinent.",
+  "resetGlobal": "Återställ global vy",
+  "loadingTitle": "Laddar senaste rapporter",
+  "loadingDesc": "Sorterar senaste rapporter...",
+  "emptyTitle": "Inga matchande uppdateringar",
+  "emptyDesc": "Byt region/kategori eller försök senare.",
+  "errorTitle": "Nyhetshämtning misslyckades",
+  "retry": "Försök igen",
+  "openOriginal": "Öppna original",
+  "heat": "Trend",
+  "heatRealtime": "Live-trend",
+  "realTime": "Live",
+  "unknown": "Okänd",
+  "footer": "© 2026 Världsblick | Global nyhetsmonitor",
+  "categories": {
+    "tech": [
+      "Teknikunderrättelser",
+      "AI, halvledare, rymd och avancerad FoU"
+    ],
+    "politics": [
+      "Politik & diplomati",
+      "Val, diplomati och geopolitik"
+    ],
+    "finance": [
+      "Global finans",
+      "Marknader, valutor, M&A och makroekonomi"
+    ],
+    "general": [
+      "Allmänna uppdateringar",
+      "Samhällsfrågor, nödlägen och globala notiser"
+    ],
+    "environment": [
+      "Miljö & klimat",
+      "Klimat och ekologiskt skydd"
+    ],
+    "health": [
+      "Global hälsa",
+      "Folkhälsa och medicinska innovationer"
+    ],
+    "science": [
+      "Vetenskap",
+      "Rymd, fysik och genetik"
+    ],
+    "culture": [
+      "Kultur & konst",
+      "Arv, konsttrender och samhälle"
+    ]
+  },
+  "regions": {
+    "Global": "Globalt",
+    "North America": "Nordamerika",
+    "Europe": "Europa",
+    "Asia": "Asien",
+    "Africa": "Afrika",
+    "South America": "Sydamerika",
+    "Oceania": "Oceanien"
+  },
+  "moreCoverage": "Also reported by {count} more media outlets",
+  "viewMore": "View more",
+  "relatedCoverage": "Related Coverage",
+  "relatedTitle": "Other media reports",
+  "relatedSubtitle": "Mer bevakning av samma nyhet.",
+  "representativeReport": "Representative report",
+  "otherReports": "Other reports",
+  "noRelated": "No other media reports available yet",
+  "backHome": "← Home",
+  "welcomeKicker": "Global News Monitor",
+  "sectionsKicker": "Sections",
+  "regionKicker": "Region",
+  "backSections": "← Sections",
+  "back": "← Back",
+  "orientationTip": "På små skärmar blir läsningen bättre i liggande läge.",
+  "introKicker": "About Världsblick",
+  "introHeading": "See the world through trusted reports",
+  "introLead": "Världsblick gathers recent reports from reliable media and public sources, organizes them by topic and continent, and groups related coverage so readers can follow major events without wading through repeated headlines.",
+  "introCard1Title": "Trusted sources",
+  "introCard1Text": "News is collected from established media, institutions and specialist outlets.",
+  "introCard2Title": "Regional view",
+  "introCard2Text": "Each continent has its own feed, while Global highlights the hottest stories overall.",
+  "introCard3Title": "Less repetition",
+  "introCard3Text": "Similar reports are grouped together so the main feed stays cleaner.",
+  "introCard4Title": "Read at source",
+  "introCard4Text": "Open the original article and compare related coverage when needed.",
+  "brandName": "Världsblick",
+  "sortLabel": "Sortera",
+  "sortHeat": "Relevans",
+  "sortTime": "Senaste",
+  "feedbackButton": "Feedback",
+  "noticeKicker": "Meddelande",
+  "noticeTitle": "Om webbplatsen",
+  "noticeBody": "Den här webbplatsen är fortfarande i ett tidigt skede. Vissa funktioner kan vara ofärdiga, och vi förbättrar dem steg för steg. Skicka gärna förslag via e-post.",
+  "feedbackKicker": "Feedback",
+  "feedbackTitle": "Feedback-e-post",
+  "feedbackIntro": "Feedback-e-post: sochenxiang@outlook.com",
+  "feedbackEmailLabel": "Feedback-e-post",
+  "feedbackMailAction": "Skicka e-post",
+  "feedbackClose": "Stäng"
+}
