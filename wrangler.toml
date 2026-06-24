@@ -17,4 +17,4 @@ crons = ["*/5 * * * *"]
 # Then replace the placeholder id below.
 [[kv_namespaces]]
 binding = "NEWS_KV"
-id = "REPLACE_WITH_YOUR_KV_NAMESPACE_ID"
+id = "cfa9d35d66c04953ab220373f9a87cc2"
